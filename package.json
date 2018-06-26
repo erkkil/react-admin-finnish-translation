@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/Joni-Aaltonen/aor-language-finnish.git"
+    "url": "git+ssh://git@github.com/erkkil/ra-language-finnish.git"
   },
   "keywords": [
     "rest-admin",
@@ -21,7 +21,7 @@
   "author": "Erkki Lohiniva",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Joni-Aaltonen/aor-language-finnish/issues"
+    "url": "https://github.com/erkkil/ra-language-finnish/issues"
   },
-  "homepage": "https://github.com/Joni-Aaltonen/aor-language-finnish#readme"
+  "homepage": "https://github.com/erkkil/ra-language-finnish#readme"
 }
